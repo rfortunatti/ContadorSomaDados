@@ -1,0 +1,9 @@
+G:\OneDrive\Senac\LF1 - Laboratio de Fisica 1\Software\ContadorSomaDados\ContadorSomadeDados\ContadorSomadeDados\bin\Debug\ContadorSomadeDados.exe.config
+G:\OneDrive\Senac\LF1 - Laboratio de Fisica 1\Software\ContadorSomaDados\ContadorSomadeDados\ContadorSomadeDados\bin\Debug\ContadorSomadeDados.exe
+G:\OneDrive\Senac\LF1 - Laboratio de Fisica 1\Software\ContadorSomaDados\ContadorSomadeDados\ContadorSomadeDados\bin\Debug\ContadorSomadeDados.pdb
+G:\OneDrive\Senac\LF1 - Laboratio de Fisica 1\Software\ContadorSomaDados\ContadorSomadeDados\ContadorSomadeDados\obj\Debug\ContadorSomadeDados.csprojResolveAssemblyReference.cache
+G:\OneDrive\Senac\LF1 - Laboratio de Fisica 1\Software\ContadorSomaDados\ContadorSomadeDados\ContadorSomadeDados\obj\Debug\ContadorSomadeDados.Form1.resources
+G:\OneDrive\Senac\LF1 - Laboratio de Fisica 1\Software\ContadorSomaDados\ContadorSomadeDados\ContadorSomadeDados\obj\Debug\ContadorSomadeDados.Properties.Resources.resources
+G:\OneDrive\Senac\LF1 - Laboratio de Fisica 1\Software\ContadorSomaDados\ContadorSomadeDados\ContadorSomadeDados\obj\Debug\ContadorSomadeDados.csproj.GenerateResource.Cache
+G:\OneDrive\Senac\LF1 - Laboratio de Fisica 1\Software\ContadorSomaDados\ContadorSomadeDados\ContadorSomadeDados\obj\Debug\ContadorSomadeDados.exe
+G:\OneDrive\Senac\LF1 - Laboratio de Fisica 1\Software\ContadorSomaDados\ContadorSomadeDados\ContadorSomadeDados\obj\Debug\ContadorSomadeDados.pdb
